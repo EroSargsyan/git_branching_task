@@ -19,7 +19,6 @@ function maxPossible(arr1, arr2) {
 
     return newArr;
   }
-  ////
   return inner(arr1, sortedArr2);
 }
 
