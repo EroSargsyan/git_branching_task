@@ -1,4 +1,6 @@
 const user = {
   name: "mane",
-  surname: "safaryan",
+  method = function (){
+    return "Say Hi"
+  },
 };
