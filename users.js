@@ -1,6 +1,6 @@
 const user = {
   name: "mane",
-  method = function (){
-    return "Say Hi"
+  method: function () {
+    return "Say Hi";
   },
 };
